@@ -1,6 +1,8 @@
 # Put application-specific config here (application name: client-config-app)
 some:
-  property: "app specific overridden value"
+  property: "coffee"
+  other:
+    property: "is good"
 
 #spring:
 #  application:
